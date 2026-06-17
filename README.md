@@ -111,10 +111,6 @@ plotly
 4. Study metrics are calculated using `analyzer.py`.
 5. The dashboard in `app.py` displays metrics, charts, insights, and recommendations.
 
-## Repository Link
-
-[Study Habit Analyzer](https://github.com/1ankitrawat1/Study-habit-analyzer)
-
 ## Live Demo
 
 View the live Streamlit app here: [Study Habit Analyzer](https://study-habit-analyzer-asr.streamlit.app/)
